@@ -1,0 +1,4 @@
+funcao_principal() {
+
+    return 0;
+}
